@@ -1,0 +1,12 @@
+## pkg_h command. (delete this line if you are going to use it.)
+## PKG Aliases Help!
+>> pkg_add
+Installs a package specified by the user, Usage:
+$ pkg_add something somethingelse
+
+>> pkg_rem
+Removes a package specified by the user, Usage:
+$ pkg_rem something
+
+>> pkg_u
+Updates the system's packages.
