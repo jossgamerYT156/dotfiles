@@ -1,0 +1,25 @@
+## .hlp file in $HOME (Note, delete this line if you are going to use it.)
+## General Help about BSD LillyTermAliases!
+>> sys
+A really nice and pretty Neofetch-like software! (crfetch)
+		<Provides info about the system! >
+
+>> term-rstart
+Reloads the terminal by sourcing the .zshrc file within $HOME!!
+    	< Really useful for testing changes really quick! >
+
+>> clt
+Clears the terminal.
+		<Who doesn't like some space? >
+
+>>halt-r
+Reboots the system!
+		   < Need a little break? >
+
+>> headphones_out
+Sets the audio output to the headphone jack.
+	    < Need some privacy to hear some music! >
+
+>> help
+Shows this help message.
+	 	    < Need a lil' help? >
